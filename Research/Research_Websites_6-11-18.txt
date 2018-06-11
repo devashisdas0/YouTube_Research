@@ -1,0 +1,9 @@
+Websites used
+
+https://stackoverflow.com/questions/40713268/download-youtube-video-using-python?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+https://github.com/rg3/youtube-dl
+
+https://seleniumhq.github.io/selenium/docs/api/py/webdriver/selenium.webdriver.common.action_chains.html
+
+https://stackoverflow.com/questions/12395228/click-on-a-dropdown-element-menu-with-selenium-webdriver?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
