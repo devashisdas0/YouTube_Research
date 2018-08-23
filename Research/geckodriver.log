@@ -5177,3 +5177,21 @@ JavaScript error: https://s.ytimg.com/yts/jsbin/spf-vflhSOzLf/spf.js, line 17: N
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1534963600685	geckodriver	INFO	geckodriver 0.20.1
+1534963600780	geckodriver	INFO	Listening on 127.0.0.1:51029
+1534963603702	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Owner\\AppData\\Local\\Temp\\rust_mozprofile.suXjQxWXpPxN"
+1534963606646	addons.xpi-utils	WARN	addMetadata: Add-on {82AF8DCA-6DE9-405D-BD5E-43525BDAD38A} is invalid: Error: Install manifest specifies unknown optionsType: 2 (resource://gre/modules/addons/XPIInstall.jsm:595:13) JS Stack trace: loadManifestFromRDF@XPIInstall.jsm:595:13 < loadFromRDF@XPIInstall.jsm:873:25 < loadManifestFromZipReader@XPIInstall.jsm:913:21 < loadManifestFromZipFile@XPIInstall.jsm:961:26 < this.loadManifestFromFile@XPIInstall.jsm:970:12 < syncLoadManifestFromFile@XPIProvider.jsm:938:3 < addMetadata@XPIProviderUtils.js:1176:21 < processFileChanges@XPIProviderUtils.js:1532:23 < checkForChanges@XPIProvider.jsm:3263:34 < startup@XPIProvider.jsm:2182:25 < callProvider@AddonManager.jsm:264:12 < _startProvider@AddonManager.jsm:740:5 < startup@AddonManager.jsm:907:9 < startup@AddonManager.jsm:3089:5 < observe@addonManager.js:65:9
+1534963606648	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+Unable to read VR Path Registry from C:\Users\Owner\AppData\Local\openvr\openvrpaths.vrpath
+1534963607432	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Owner\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Owner\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Owner\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3345: TypeError: addon is null
+Unable to read VR Path Registry from C:\Users\Owner\AppData\Local\openvr\openvrpaths.vrpath
+1534963613844	Marionette	INFO	Listening on port 51039
+1534963614350	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14664, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
